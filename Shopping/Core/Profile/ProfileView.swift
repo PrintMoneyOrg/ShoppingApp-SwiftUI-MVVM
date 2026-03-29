@@ -35,6 +35,7 @@ struct ProfileView: View {
             CustomProgressView(isVisible: $viewModel.showActivity)
         }
         .onAppear {
+            viewModel.getAuthUser()
             viewModel.getCompletedOrders()
         }
         .alert(isPresented: $viewModel.showAlert) {

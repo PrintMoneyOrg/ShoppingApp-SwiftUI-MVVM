@@ -28,7 +28,7 @@ final class ProfileViewModel: ObservableObject {
         getAuthUser()
     }
     
-    private func getAuthUser() {
+    func getAuthUser() {
         showActivity = true
         
         if let token = userDefaultsManager.getItem(key: .authToken, type: String.self) {
@@ -86,6 +86,8 @@ final class ProfileViewModel: ObservableObject {
                     }
                 }
             }
+        } else {
+            showActivity = false
         }
     }
     
