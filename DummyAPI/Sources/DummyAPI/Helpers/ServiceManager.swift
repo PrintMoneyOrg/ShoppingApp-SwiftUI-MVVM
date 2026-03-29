@@ -27,8 +27,15 @@ final class ServiceManager {
                    let data = data {
                     switch response.statusCode {
                     case 200...299:
-                        let decodedData = try? self.decoder.decode(T.self, from: data)
-                        completion(.success(decodedData))
+                        do {
+                            let decodedData = try self.decoder.decode(T.self, from: data)
+                            completion(.success(decodedData))
+                        } catch {
+                            #if DEBUG
+                            print("Decode error: \(error)")
+                            #endif
+                            completion(.failure(.invalidResponse))
+                        }
                         #if DEBUG
                         print("------\(response.statusCode)------\(request.urlRequest())------\(response.statusCode)------")
                         #endif
@@ -44,6 +51,7 @@ final class ServiceManager {
                         #if DEBUG
                         print("------\(response.statusCode)------\(request.urlRequest())------\(response.statusCode)------")
                         #endif
+                        return
                     default:
                         completion(.failure(ServiceError.invalidResponse))
                         #if DEBUG
