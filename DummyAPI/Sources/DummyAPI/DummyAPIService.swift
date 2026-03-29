@@ -54,7 +54,7 @@ public final class DummyAPIService: DummyAPIServiceProtocol {
     public func login(username: String,
                       password: String,
                       completion: @escaping (Result<LoginResponseDTO?, ServiceError>) -> Void) {
-        serviceManager.request(DummyAPI.login(LoginRequestDTO(username: username, password: password, expiresInMins: 1)), type: LoginResponseDTO.self) { results in
+        serviceManager.request(DummyAPI.login(LoginRequestDTO(username: username, password: password, expiresInMins: 60)), type: LoginResponseDTO.self) { results in
             switch results {
             case .success(let success):
                 completion(.success(success))
