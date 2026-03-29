@@ -1,0 +1,24 @@
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Helpers/ViewModifiers/TextField+Modifier.swift":
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.swiftconstvalues"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.o"
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.dia"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.swiftdeps"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.d"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Managers/CartManager.swift":
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.dia"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.swiftdeps"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.swiftconstvalues"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.d"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.o"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Splash/SplashViewModel.swift":
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.dia"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.swiftdeps"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.swiftconstvalues"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.o"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.d"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/HomeView/HomeViewModel.swift":
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.o"
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.dia"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.d"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues"

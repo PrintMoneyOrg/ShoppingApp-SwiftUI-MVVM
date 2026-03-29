@@ -1,0 +1,64 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/Login/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign up.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 83
+        }
+      }
+    ]
+  },
+  "version": 1
+}

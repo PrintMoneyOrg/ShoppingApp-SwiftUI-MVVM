@@ -49,9 +49,14 @@ extension LoginViewModel: LoginViewModelProtocol {
                     self.showActivity = false
                     switch results {
                     case .success(let login):
+                        guard let login = login else {
+                            self.errorMessage = "Login failed: invalid response"
+                            self.isPresentAlert.toggle()
+                            return
+                        }
                         completion(true)
-                        self.userDefaultManager.addItem(key: .authToken, item: login?.token)
-                        self.userDefaultManager.addItem(key: .refreshToken, item: login?.refreshToken)
+                        self.userDefaultManager.addItem(key: .authToken, item: login.token)
+                        self.userDefaultManager.addItem(key: .refreshToken, item: login.refreshToken)
                     case .failure(let failure):
                         self.errorMessage = failure.errorDescription
                         self.isPresentAlert.toggle()

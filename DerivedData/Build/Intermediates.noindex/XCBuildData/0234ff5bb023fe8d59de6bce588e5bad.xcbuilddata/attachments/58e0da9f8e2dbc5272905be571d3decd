@@ -1,0 +1,358 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Shopping-master.dia",
+    "emit-module-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Shopping-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Shopping-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Shopping-master.swiftdeps"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/App/Coordinator.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/Coordinator~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/App/ShoppingApp.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ShoppingApp~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/Login/LoginView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/Login/LoginViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/SignUp/SignUpView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/SignUp/SignUpViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Cart/CartView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Cart/CartViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Cart/Model/CartModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/CompleteOrder/CompleteOrderView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/CompleteOrder/CompleteOrderVM.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CompleteOrderVM~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/CompleteOrder/Model/OrderModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/OrderModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Favorites/FavoritesView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Favorites/FavoritesViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/HomeView/HomeView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/HomeView/HomeViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/HomeView/Models/ProductModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/MainTabBar/MainTabBar.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/MainTabBar~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/ProductDetail/ProductDetailView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/ProductDetail/ProductDetailVM.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProductDetailVM~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Profile/Model/UserModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Profile/ProfileView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Profile/ProfileViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/ProfileViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Splash/SplashView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Splash/SplashViewModel.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SplashViewModel~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/CustomButton.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/CustomProgressView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/CustomStepperView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomStepperView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/EmptyContentView.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/EmptyContentView~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Helpers/Color/AppColor.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/AppColor~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Helpers/ViewModifiers/TextField+Modifier.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/TextField+Modifier~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Managers/CartManager.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CartManager~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Managers/FavoritesManager.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/FavoritesManager~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Managers/UserDefaultManager.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.dia",
+    "index-unit-output-path" : "/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/UserDefaultManager~partial.swiftmodule"
+  }
+}

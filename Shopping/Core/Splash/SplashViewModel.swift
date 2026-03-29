@@ -47,7 +47,8 @@ final class SplashViewModel: ObservableObject {
         DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) { [weak self] in
             guard let self else { return }
             if self.isNetworkReachable {
-                if let token = self.userDefaultsManager.getItem(key: .authToken, type: String.self) {
+                if let token = self.userDefaultsManager.getItem(key: .authToken, type: String.self),
+                   !token.isEmpty, token != "null" {
                     self.dummyAPIService.getAuthUser(token: token) { results in
                         DispatchQueue.main.async {
                             switch results {
@@ -56,7 +57,8 @@ final class SplashViewModel: ObservableObject {
                             case .failure(let failure):
                                 switch failure {
                                 case .unauthorized:
-                                    if let refreshToken = self.userDefaultsManager.getItem(key: .refreshToken, type: String.self) {
+                                    if let refreshToken = self.userDefaultsManager.getItem(key: .refreshToken, type: String.self),
+                                       !refreshToken.isEmpty, refreshToken != "null" {
                                         self.dummyAPIService.refreshToken(refreshToken: refreshToken, expiresInMins: 10) { results in
                                             DispatchQueue.main.async {
                                                 switch results {

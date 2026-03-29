@@ -1,0 +1,24 @@
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/CustomProgressView.swift":
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.swiftdeps"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.o"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.d"
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.dia"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomProgressView.swiftconstvalues"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/SignUp/SignUpViewModel.swift":
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.dia"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.swiftconstvalues"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.o"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.swiftdeps"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/SignUpViewModel.d"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/Login/LoginViewModel.swift":
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.o"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.swiftdeps"
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.dia"
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.d"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/LoginViewModel.swiftconstvalues"
+"/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/CustomViews/CustomButton.swift":
+  dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.d"
+  diagnostics: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.dia"
+  const-values: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.swiftconstvalues"
+  object: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.o"
+  swift-dependencies: "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/Shopping.build/Debug-iphonesimulator/Shopping.build/Objects-normal/arm64/CustomButton.swiftdeps"

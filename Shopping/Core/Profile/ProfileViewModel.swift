@@ -32,7 +32,8 @@ final class ProfileViewModel: ObservableObject {
     func getAuthUser() {
         showActivity = true
         
-        if let token = userDefaultsManager.getItem(key: .authToken, type: String.self) {
+        if let token = userDefaultsManager.getItem(key: .authToken, type: String.self),
+           !token.isEmpty, token != "null" {
             dummyAPIService.getAuthUser(token: token) { [weak self] results in
                 guard let self else { return }
                 DispatchQueue.main.async {
@@ -73,7 +74,8 @@ final class ProfileViewModel: ObservableObject {
                         }
                     case .failure(let failure):
                         if failure == .unauthorized {
-                            if let refreshToken = self.userDefaultsManager.getItem(key: .refreshToken, type: String.self) {
+                            if let refreshToken = self.userDefaultsManager.getItem(key: .refreshToken, type: String.self),
+                               !refreshToken.isEmpty, refreshToken != "null" {
                                 self.dummyAPIService.refreshToken(refreshToken: refreshToken, expiresInMins: 10) { results in
                                     DispatchQueue.main.async {
                                         switch results {

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Splash/SplashView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "© Berkay Sancar 2024 ©",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "No internet connection.",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try again.",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 45
+        }
+      }
+    ]
+  },
+  "version": 1
+}

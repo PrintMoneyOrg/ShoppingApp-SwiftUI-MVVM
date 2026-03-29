@@ -1,0 +1,48 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/ProductDetail/ProductDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld reviews",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "In stock",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "$%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Comments",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rating: %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 132
+        }
+      }
+    ]
+  },
+  "version": 1
+}

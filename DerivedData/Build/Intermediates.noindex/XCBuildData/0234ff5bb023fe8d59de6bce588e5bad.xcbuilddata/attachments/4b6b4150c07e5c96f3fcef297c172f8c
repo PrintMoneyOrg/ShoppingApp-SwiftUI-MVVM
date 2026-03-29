@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI-master.dia",
+    "emit-module-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI-master.swiftdeps"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/AddUserDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/AddUserDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/LoginRequestDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginRequestDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/LoginResponseDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/LoginResponseDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/ProductsDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ProductsDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/RefreshTokenRequestDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/RefreshTokenRequestDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/TokenDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/TokenDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/UserDTO.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/UserDTO~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DummyAPI.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPI~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DummyAPIService.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/DummyAPIService~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/HTTPMethods.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/HTTPMethods~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/Reachability.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/Reachability~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/ServiceError.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceError~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/ServiceManager.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/ServiceManager~partial.swiftmodule"
+  },
+  "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/URLRequestConvertible.swift" : {
+    "const-values" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.swiftconstvalues",
+    "dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.d",
+    "diagnostics" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.dia",
+    "index-unit-output-path" : "/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.o",
+    "llvm-bc" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.bc",
+    "object" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.o",
+    "swift-dependencies" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible.swiftdeps",
+    "swiftmodule" : "/Users/fx/AgentCoder/data/repos/proj-1774795657837/DerivedData/Build/Intermediates.noindex/DummyAPI.build/Debug-iphonesimulator/DummyAPI.build/Objects-normal/arm64/URLRequestConvertible~partial.swiftmodule"
+  }
+}

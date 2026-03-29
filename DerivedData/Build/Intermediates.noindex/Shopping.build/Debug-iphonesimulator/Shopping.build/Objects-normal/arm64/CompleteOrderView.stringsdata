@@ -1,0 +1,120 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/CompleteOrder/CompleteOrderView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Complete Order",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Credit Card",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Payment",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@\n\n%@\n%@",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cart: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "$%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delivery: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "$20",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "$%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 123
+        }
+      }
+    ]
+  },
+  "version": 1
+}

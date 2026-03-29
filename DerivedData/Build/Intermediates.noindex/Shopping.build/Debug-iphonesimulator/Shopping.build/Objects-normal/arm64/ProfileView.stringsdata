@@ -1,0 +1,96 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Profile/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "User",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@\n%@",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "CardNumber: %@\nExpireDate: %@\nIban: %@\nCurrency: %@",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Card",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recently Purchased Products",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign Out",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Account",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 161
+        }
+      }
+    ]
+  },
+  "version": 1
+}

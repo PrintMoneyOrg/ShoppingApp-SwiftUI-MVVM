@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>E1C332D1-C53E-48F7-886C-0B4A639AFCF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1C332D1-C53E-48F7-886C-0B4A639AFCF5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Shopping project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Shopping</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Shopping with scheme Shopping</string>
+			<key>timeStartedRecording</key>
+			<real>796494424.75484395</real>
+			<key>timeStoppedRecording</key>
+			<real>796494436.93365705</real>
+			<key>title</key>
+			<string>Building project Shopping with scheme Shopping</string>
+			<key>uniqueIdentifier</key>
+			<string>E1C332D1-C53E-48F7-886C-0B4A639AFCF5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

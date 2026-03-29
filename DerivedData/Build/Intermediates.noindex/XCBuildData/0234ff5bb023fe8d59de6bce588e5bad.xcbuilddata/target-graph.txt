@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Shopping' in project 'Shopping'
+➜ Explicit dependency on target 'DummyAPI' in project 'DummyAPI'
+Target 'DummyAPI' in project 'DummyAPI'
+➜ Explicit dependency on target 'DummyAPI' in project 'DummyAPI'
+Target 'DummyAPI' in project 'DummyAPI' (no dependencies)

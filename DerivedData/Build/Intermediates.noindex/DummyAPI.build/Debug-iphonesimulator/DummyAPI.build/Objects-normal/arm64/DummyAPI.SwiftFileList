@@ -1,0 +1,14 @@
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/AddUserDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/LoginRequestDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/LoginResponseDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/ProductsDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/RefreshTokenRequestDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/TokenDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DTOs/UserDTO.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DummyAPI.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/DummyAPIService.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/HTTPMethods.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/Reachability.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/ServiceError.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/ServiceManager.swift
+/Users/fx/AgentCoder/data/repos/proj-1774795657837/DummyAPI/Sources/DummyAPI/Helpers/URLRequestConvertible.swift

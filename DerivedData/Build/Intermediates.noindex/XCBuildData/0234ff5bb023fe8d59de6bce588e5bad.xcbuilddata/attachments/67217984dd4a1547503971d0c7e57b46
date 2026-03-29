@@ -1,0 +1,4 @@
+module DummyAPI {
+header "DummyAPI-Swift.h"
+export *
+}

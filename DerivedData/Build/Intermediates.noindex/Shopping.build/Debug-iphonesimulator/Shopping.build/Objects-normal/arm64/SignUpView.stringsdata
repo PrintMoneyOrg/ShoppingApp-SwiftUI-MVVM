@@ -1,0 +1,144 @@
+{
+  "source": "/Users/fx/AgentCoder/data/repos/proj-1774795657837/Shopping/Core/Auth/SignUp/SignUpView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "User successfully created.",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Please login.",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "First Name",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Name",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Already have an account?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shopping App",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 114
+        }
+      }
+    ]
+  },
+  "version": 1
+}
