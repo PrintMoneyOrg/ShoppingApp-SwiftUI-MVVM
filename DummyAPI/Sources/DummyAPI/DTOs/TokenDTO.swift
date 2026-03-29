@@ -10,4 +10,9 @@ import Foundation
 public struct TokenDTO: Codable {
     public let token: String
     public let refreshToken: String
+    
+    enum CodingKeys: String, CodingKey {
+        case token = "accessToken"
+        case refreshToken
+    }
 }

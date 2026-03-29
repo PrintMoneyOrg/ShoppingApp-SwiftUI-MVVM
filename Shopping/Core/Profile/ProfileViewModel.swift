@@ -25,7 +25,8 @@ final class ProfileViewModel: ObservableObject {
         self.userDefaultsManager = userDefaultsManager
         self.dummyAPIService = dummyAPIService
         
-        getAuthUser()
+        // 先加载缓存的用户信息
+        self.user = userDefaultsManager.getItem(key: .cachedUser, type: UserModel.self)
     }
     
     func getAuthUser() {
@@ -35,7 +36,7 @@ final class ProfileViewModel: ObservableObject {
             dummyAPIService.getAuthUser(token: token) { [weak self] results in
                 guard let self else { return }
                 DispatchQueue.main.async {
-                    self.showActivity.toggle()
+                    self.showActivity = false
                     switch results {
                     case .success(let user):
                         self.user = user.map {
@@ -66,6 +67,10 @@ final class ProfileViewModel: ObservableObject {
                                 )
                             )
                         }
+                        // 缓存用户信息到本地
+                        if let userModel = self.user {
+                            self.userDefaultsManager.addItem(key: .cachedUser, item: userModel)
+                        }
                     case .failure(let failure):
                         if failure == .unauthorized {
                             if let refreshToken = self.userDefaultsManager.getItem(key: .refreshToken, type: String.self) {
@@ -90,7 +95,6 @@ final class ProfileViewModel: ObservableObject {
                                 self.errorMessage = failure.errorDescription
                             }
                         } else {
-                            self.showActivity = false
                             self.showAlert.toggle()
                             self.errorMessage = failure.errorDescription
                         }

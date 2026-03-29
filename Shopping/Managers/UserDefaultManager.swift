@@ -13,6 +13,7 @@ enum StorageType: String {
     case authToken = "token"
     case refreshToken = "refreshToken"
     case completedOrder = "completedOrder"
+    case cachedUser = "cachedUser"
 }
 
 protocol UserDefaultManagerProtocol: AnyObject {

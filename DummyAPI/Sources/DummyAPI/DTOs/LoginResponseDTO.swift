@@ -17,4 +17,10 @@ public struct LoginResponseDTO: Codable {
     public let image: String
     public let token: String
     public let refreshToken: String
+    
+    enum CodingKeys: String, CodingKey {
+        case id, username, email, firstName, lastName, gender, image
+        case token = "accessToken"
+        case refreshToken
+    }
 }
