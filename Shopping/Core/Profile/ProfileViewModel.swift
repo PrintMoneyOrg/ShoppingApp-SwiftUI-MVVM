@@ -95,6 +95,7 @@ final class ProfileViewModel: ObservableObject {
                                 self.errorMessage = failure.errorDescription
                             }
                         } else {
+                            self.showActivity = false
                             self.showAlert.toggle()
                             self.errorMessage = failure.errorDescription
                         }
